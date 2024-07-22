@@ -1,13 +1,17 @@
 project:
   type: website
+  output-dir:docs
 
 website:
-  title: "casie-website-2024"
+  title: "Casie Lin"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+        href: cv.qmd
+        text: CV
+        href: projects.qmd
+        text: Projects
 
 format:
   html:
