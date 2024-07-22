@@ -1,0 +1,13 @@
+---
+title: Projects
+description: | 
+  A list of projects I have done
+format:
+  html:
+    toc: true
+    toc-title: Project List
+---
+
+# Project title
+
+blabla description
