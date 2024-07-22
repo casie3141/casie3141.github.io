@@ -1,6 +1,6 @@
 ---
 title: Casie Lin
-image: img/blabla.png
+image: images/website-pic-2024.jpg
 about:
   template: trestles
   image-shape: round
