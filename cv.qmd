@@ -1,0 +1,10 @@
+---
+title: CV
+description: Curriculum Vitae
+format:
+  html:
+    toc: true
+    toc-title: CV
+---
+
+blabla
