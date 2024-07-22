@@ -7,14 +7,14 @@ about:
   image-width: 16em
   links: 
     - icon: envelope
-    text: Email
-    href: mailto:casie3141@gmail.com
+      text: Email
+      href: mailto:casie3141@gmail.com
     - icon: github
-    text: GitHub
-    href: https://github.com/casie3141
+      text: GitHub
+      href: https://github.com/casie3141
     - icon: linkedin
-    text: LinkedIn
-    href: https://www.linkedin.com/in/casie-lin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/casie-lin
 ---
 
 About me
